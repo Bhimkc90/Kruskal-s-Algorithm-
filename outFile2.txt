@@ -1,0 +1,258 @@
+Printing list for Edge List:
+(0, 0, 0) -> (6, 4, 3) ->  NULL 
+Printing list for Edge List:
+(0, 0, 0) -> (6, 4, 3) -> (12, 7, 4) ->  NULL 
+Printing list for Edge List:
+(0, 0, 0) -> (6, 4, 3) -> (12, 7, 4) -> (6, 12, 7) ->  NULL 
+Printing list for Edge List:
+(0, 0, 0) -> (6, 4, 3) -> (12, 7, 4) -> (10, 12, 7) -> (6, 12, 7) ->  NULL 
+Printing list for Edge List:
+(0, 0, 0) -> (6, 4, 3) -> (9, 10, 4) -> (12, 7, 4) -> (10, 12, 7) -> (6, 12, 7) ->  NULL 
+Printing list for Edge List:
+(0, 0, 0) -> (2, 4, 1) -> (6, 4, 3) -> (9, 10, 4) -> (12, 7, 4) -> (10, 12, 7) -> (6, 12, 7) ->  NULL 
+Printing list for Edge List:
+(0, 0, 0) -> (2, 4, 1) -> (6, 4, 3) -> (9, 10, 4) -> (12, 7, 4) -> (9, 11, 5) -> (10, 12, 7) -> (6, 12, 7) ->  NULL 
+Printing list for Edge List:
+(0, 0, 0) -> (2, 4, 1) -> (6, 4, 3) -> (9, 10, 4) -> (12, 7, 4) -> (3, 2, 5) -> (9, 11, 5) -> (10, 12, 7) -> (6, 12, 7) ->  NULL 
+Printing list for Edge List:
+(0, 0, 0) -> (2, 4, 1) -> (6, 4, 3) -> (9, 10, 4) -> (12, 7, 4) -> (5, 7, 5) -> (3, 2, 5) -> (9, 11, 5) -> (10, 12, 7) -> (6, 12, 7) ->  NULL 
+Printing list for Edge List:
+(0, 0, 0) -> (2, 4, 1) -> (1, 6, 3) -> (6, 4, 3) -> (9, 10, 4) -> (12, 7, 4) -> (5, 7, 5) -> (3, 2, 5) -> (9, 11, 5) -> (10, 12, 7) -> (6, 12, 7) ->  NULL 
+Printing list for Edge List:
+(0, 0, 0) -> (2, 4, 1) -> (8, 6, 2) -> (1, 6, 3) -> (6, 4, 3) -> (9, 10, 4) -> (12, 7, 4) -> (5, 7, 5) -> (3, 2, 5) -> (9, 11, 5) -> (10, 12, 7) -> (6, 12, 7) ->  NULL 
+Printing list for Edge List:
+(0, 0, 0) -> (2, 4, 1) -> (9, 8, 2) -> (8, 6, 2) -> (1, 6, 3) -> (6, 4, 3) -> (9, 10, 4) -> (12, 7, 4) -> (5, 7, 5) -> (3, 2, 5) -> (9, 11, 5) -> (10, 12, 7) -> (6, 12, 7) ->  NULL 
+Printing list for Edge List:
+(0, 0, 0) -> (8, 10, 1) -> (2, 4, 1) -> (9, 8, 2) -> (8, 6, 2) -> (1, 6, 3) -> (6, 4, 3) -> (9, 10, 4) -> (12, 7, 4) -> (5, 7, 5) -> (3, 2, 5) -> (9, 11, 5) -> (10, 12, 7) -> (6, 12, 7) ->  NULL 
+Printing list for Edge List:
+(0, 0, 0) -> (8, 10, 1) -> (2, 4, 1) -> (5, 4, 2) -> (9, 8, 2) -> (8, 6, 2) -> (1, 6, 3) -> (6, 4, 3) -> (9, 10, 4) -> (12, 7, 4) -> (5, 7, 5) -> (3, 2, 5) -> (9, 11, 5) -> (10, 12, 7) -> (6, 12, 7) ->  NULL 
+Printing list for Edge List:
+(0, 0, 0) -> (8, 10, 1) -> (2, 4, 1) -> (5, 4, 2) -> (9, 8, 2) -> (8, 6, 2) -> (4, 3, 3) -> (1, 6, 3) -> (6, 4, 3) -> (9, 10, 4) -> (12, 7, 4) -> (5, 7, 5) -> (3, 2, 5) -> (9, 11, 5) -> (10, 12, 7) -> (6, 12, 7) ->  NULL 
+Printing list for Edge List:
+(0, 0, 0) -> (8, 10, 1) -> (2, 4, 1) -> (5, 4, 2) -> (9, 8, 2) -> (8, 6, 2) -> (4, 3, 3) -> (1, 6, 3) -> (6, 4, 3) -> (9, 10, 4) -> (12, 7, 4) -> (5, 7, 5) -> (3, 2, 5) -> (9, 11, 5) -> (1, 2, 6) -> (10, 12, 7) -> (6, 12, 7) ->  NULL 
+Printing list for Edge List:
+(0, 0, 0) -> (8, 10, 1) -> (2, 4, 1) -> (5, 4, 2) -> (9, 8, 2) -> (8, 6, 2) -> (4, 3, 3) -> (1, 6, 3) -> (6, 4, 3) -> (9, 10, 4) -> (12, 7, 4) -> (5, 7, 5) -> (3, 2, 5) -> (9, 11, 5) -> (1, 11, 6) -> (1, 2, 6) -> (10, 12, 7) -> (6, 12, 7) ->  NULL 
+Printing list for Edge List:
+(0, 0, 0) -> (8, 10, 1) -> (2, 4, 1) -> (5, 4, 2) -> (9, 8, 2) -> (8, 6, 2) -> (4, 3, 3) -> (1, 6, 3) -> (6, 4, 3) -> (3, 5, 4) -> (9, 10, 4) -> (12, 7, 4) -> (5, 7, 5) -> (3, 2, 5) -> (9, 11, 5) -> (1, 11, 6) -> (1, 2, 6) -> (10, 12, 7) -> (6, 12, 7) ->  NULL 
+Printing list for Edge List:
+(0, 0, 0) -> (8, 10, 1) -> (2, 4, 1) -> (6, 7, 2) -> (5, 4, 2) -> (9, 8, 2) -> (8, 6, 2) -> (4, 3, 3) -> (1, 6, 3) -> (6, 4, 3) -> (3, 5, 4) -> (9, 10, 4) -> (12, 7, 4) -> (5, 7, 5) -> (3, 2, 5) -> (9, 11, 5) -> (1, 11, 6) -> (1, 2, 6) -> (10, 12, 7) -> (6, 12, 7) ->  NULL 
+for Node i: 1, whichSet is 1
+for Node i: 2, whichSet is 2
+for Node i: 3, whichSet is 3
+for Node i: 4, whichSet is 4
+for Node i: 5, whichSet is 5
+for Node i: 6, whichSet is 6
+for Node i: 7, whichSet is 7
+for Node i: 8, whichSet is 8
+for Node i: 9, whichSet is 9
+for Node i: 10, whichSet is 8
+for Node i: 11, whichSet is 11
+for Node i: 12, whichSet is 12
+
+
+Printing list for Edge List:
+(0, 0, 0) -> (2, 4, 1) -> (6, 7, 2) -> (5, 4, 2) -> (9, 8, 2) -> (8, 6, 2) -> (4, 3, 3) -> (1, 6, 3) -> (6, 4, 3) -> (3, 5, 4) -> (9, 10, 4) -> (12, 7, 4) -> (5, 7, 5) -> (3, 2, 5) -> (9, 11, 5) -> (1, 11, 6) -> (1, 2, 6) -> (10, 12, 7) -> (6, 12, 7) ->  NULL 
+Printing list for MST List:
+(0, 0, 0) -> (8, 10, 1) ->  NULL 
+Total cost: 1
+
+for Node i: 1, whichSet is 1
+for Node i: 2, whichSet is 2
+for Node i: 3, whichSet is 3
+for Node i: 4, whichSet is 2
+for Node i: 5, whichSet is 5
+for Node i: 6, whichSet is 6
+for Node i: 7, whichSet is 7
+for Node i: 8, whichSet is 8
+for Node i: 9, whichSet is 9
+for Node i: 10, whichSet is 8
+for Node i: 11, whichSet is 11
+for Node i: 12, whichSet is 12
+
+
+Printing list for Edge List:
+(0, 0, 0) -> (6, 7, 2) -> (5, 4, 2) -> (9, 8, 2) -> (8, 6, 2) -> (4, 3, 3) -> (1, 6, 3) -> (6, 4, 3) -> (3, 5, 4) -> (9, 10, 4) -> (12, 7, 4) -> (5, 7, 5) -> (3, 2, 5) -> (9, 11, 5) -> (1, 11, 6) -> (1, 2, 6) -> (10, 12, 7) -> (6, 12, 7) ->  NULL 
+Printing list for MST List:
+(0, 0, 0) -> (2, 4, 1) -> (8, 10, 1) ->  NULL 
+Total cost: 2
+
+for Node i: 1, whichSet is 1
+for Node i: 2, whichSet is 2
+for Node i: 3, whichSet is 3
+for Node i: 4, whichSet is 2
+for Node i: 5, whichSet is 5
+for Node i: 6, whichSet is 6
+for Node i: 7, whichSet is 6
+for Node i: 8, whichSet is 8
+for Node i: 9, whichSet is 9
+for Node i: 10, whichSet is 8
+for Node i: 11, whichSet is 11
+for Node i: 12, whichSet is 12
+
+
+Printing list for Edge List:
+(0, 0, 0) -> (5, 4, 2) -> (9, 8, 2) -> (8, 6, 2) -> (4, 3, 3) -> (1, 6, 3) -> (6, 4, 3) -> (3, 5, 4) -> (9, 10, 4) -> (12, 7, 4) -> (5, 7, 5) -> (3, 2, 5) -> (9, 11, 5) -> (1, 11, 6) -> (1, 2, 6) -> (10, 12, 7) -> (6, 12, 7) ->  NULL 
+Printing list for MST List:
+(0, 0, 0) -> (6, 7, 2) -> (2, 4, 1) -> (8, 10, 1) ->  NULL 
+Total cost: 4
+
+for Node i: 1, whichSet is 1
+for Node i: 2, whichSet is 2
+for Node i: 3, whichSet is 3
+for Node i: 4, whichSet is 2
+for Node i: 5, whichSet is 2
+for Node i: 6, whichSet is 6
+for Node i: 7, whichSet is 6
+for Node i: 8, whichSet is 8
+for Node i: 9, whichSet is 9
+for Node i: 10, whichSet is 8
+for Node i: 11, whichSet is 11
+for Node i: 12, whichSet is 12
+
+
+Printing list for Edge List:
+(0, 0, 0) -> (9, 8, 2) -> (8, 6, 2) -> (4, 3, 3) -> (1, 6, 3) -> (6, 4, 3) -> (3, 5, 4) -> (9, 10, 4) -> (12, 7, 4) -> (5, 7, 5) -> (3, 2, 5) -> (9, 11, 5) -> (1, 11, 6) -> (1, 2, 6) -> (10, 12, 7) -> (6, 12, 7) ->  NULL 
+Printing list for MST List:
+(0, 0, 0) -> (5, 4, 2) -> (6, 7, 2) -> (2, 4, 1) -> (8, 10, 1) ->  NULL 
+Total cost: 6
+
+for Node i: 1, whichSet is 1
+for Node i: 2, whichSet is 2
+for Node i: 3, whichSet is 3
+for Node i: 4, whichSet is 2
+for Node i: 5, whichSet is 2
+for Node i: 6, whichSet is 6
+for Node i: 7, whichSet is 6
+for Node i: 8, whichSet is 8
+for Node i: 9, whichSet is 8
+for Node i: 10, whichSet is 8
+for Node i: 11, whichSet is 11
+for Node i: 12, whichSet is 12
+
+
+Printing list for Edge List:
+(0, 0, 0) -> (8, 6, 2) -> (4, 3, 3) -> (1, 6, 3) -> (6, 4, 3) -> (3, 5, 4) -> (9, 10, 4) -> (12, 7, 4) -> (5, 7, 5) -> (3, 2, 5) -> (9, 11, 5) -> (1, 11, 6) -> (1, 2, 6) -> (10, 12, 7) -> (6, 12, 7) ->  NULL 
+Printing list for MST List:
+(0, 0, 0) -> (9, 8, 2) -> (5, 4, 2) -> (6, 7, 2) -> (2, 4, 1) -> (8, 10, 1) ->  NULL 
+Total cost: 8
+
+for Node i: 1, whichSet is 1
+for Node i: 2, whichSet is 2
+for Node i: 3, whichSet is 3
+for Node i: 4, whichSet is 2
+for Node i: 5, whichSet is 2
+for Node i: 6, whichSet is 6
+for Node i: 7, whichSet is 6
+for Node i: 8, whichSet is 6
+for Node i: 9, whichSet is 6
+for Node i: 10, whichSet is 6
+for Node i: 11, whichSet is 11
+for Node i: 12, whichSet is 12
+
+
+Printing list for Edge List:
+(0, 0, 0) -> (4, 3, 3) -> (1, 6, 3) -> (6, 4, 3) -> (3, 5, 4) -> (9, 10, 4) -> (12, 7, 4) -> (5, 7, 5) -> (3, 2, 5) -> (9, 11, 5) -> (1, 11, 6) -> (1, 2, 6) -> (10, 12, 7) -> (6, 12, 7) ->  NULL 
+Printing list for MST List:
+(0, 0, 0) -> (8, 6, 2) -> (9, 8, 2) -> (5, 4, 2) -> (6, 7, 2) -> (2, 4, 1) -> (8, 10, 1) ->  NULL 
+Total cost: 10
+
+for Node i: 1, whichSet is 1
+for Node i: 2, whichSet is 2
+for Node i: 3, whichSet is 2
+for Node i: 4, whichSet is 2
+for Node i: 5, whichSet is 2
+for Node i: 6, whichSet is 6
+for Node i: 7, whichSet is 6
+for Node i: 8, whichSet is 6
+for Node i: 9, whichSet is 6
+for Node i: 10, whichSet is 6
+for Node i: 11, whichSet is 11
+for Node i: 12, whichSet is 12
+
+
+Printing list for Edge List:
+(0, 0, 0) -> (1, 6, 3) -> (6, 4, 3) -> (3, 5, 4) -> (9, 10, 4) -> (12, 7, 4) -> (5, 7, 5) -> (3, 2, 5) -> (9, 11, 5) -> (1, 11, 6) -> (1, 2, 6) -> (10, 12, 7) -> (6, 12, 7) ->  NULL 
+Printing list for MST List:
+(0, 0, 0) -> (4, 3, 3) -> (8, 6, 2) -> (9, 8, 2) -> (5, 4, 2) -> (6, 7, 2) -> (2, 4, 1) -> (8, 10, 1) ->  NULL 
+Total cost: 13
+
+for Node i: 1, whichSet is 1
+for Node i: 2, whichSet is 2
+for Node i: 3, whichSet is 2
+for Node i: 4, whichSet is 2
+for Node i: 5, whichSet is 2
+for Node i: 6, whichSet is 1
+for Node i: 7, whichSet is 1
+for Node i: 8, whichSet is 1
+for Node i: 9, whichSet is 1
+for Node i: 10, whichSet is 1
+for Node i: 11, whichSet is 11
+for Node i: 12, whichSet is 12
+
+
+Printing list for Edge List:
+(0, 0, 0) -> (6, 4, 3) -> (3, 5, 4) -> (9, 10, 4) -> (12, 7, 4) -> (5, 7, 5) -> (3, 2, 5) -> (9, 11, 5) -> (1, 11, 6) -> (1, 2, 6) -> (10, 12, 7) -> (6, 12, 7) ->  NULL 
+Printing list for MST List:
+(0, 0, 0) -> (1, 6, 3) -> (4, 3, 3) -> (8, 6, 2) -> (9, 8, 2) -> (5, 4, 2) -> (6, 7, 2) -> (2, 4, 1) -> (8, 10, 1) ->  NULL 
+Total cost: 16
+
+for Node i: 1, whichSet is 1
+for Node i: 2, whichSet is 1
+for Node i: 3, whichSet is 1
+for Node i: 4, whichSet is 1
+for Node i: 5, whichSet is 1
+for Node i: 6, whichSet is 1
+for Node i: 7, whichSet is 1
+for Node i: 8, whichSet is 1
+for Node i: 9, whichSet is 1
+for Node i: 10, whichSet is 1
+for Node i: 11, whichSet is 11
+for Node i: 12, whichSet is 12
+
+
+Printing list for Edge List:
+(0, 0, 0) -> (3, 5, 4) -> (9, 10, 4) -> (12, 7, 4) -> (5, 7, 5) -> (3, 2, 5) -> (9, 11, 5) -> (1, 11, 6) -> (1, 2, 6) -> (10, 12, 7) -> (6, 12, 7) ->  NULL 
+Printing list for MST List:
+(0, 0, 0) -> (6, 4, 3) -> (1, 6, 3) -> (4, 3, 3) -> (8, 6, 2) -> (9, 8, 2) -> (5, 4, 2) -> (6, 7, 2) -> (2, 4, 1) -> (8, 10, 1) ->  NULL 
+Total cost: 19
+
+for Node i: 1, whichSet is 1
+for Node i: 2, whichSet is 1
+for Node i: 3, whichSet is 1
+for Node i: 4, whichSet is 1
+for Node i: 5, whichSet is 1
+for Node i: 6, whichSet is 1
+for Node i: 7, whichSet is 1
+for Node i: 8, whichSet is 1
+for Node i: 9, whichSet is 1
+for Node i: 10, whichSet is 1
+for Node i: 11, whichSet is 11
+for Node i: 12, whichSet is 1
+
+
+Printing list for Edge List:
+(0, 0, 0) -> (5, 7, 5) -> (3, 2, 5) -> (9, 11, 5) -> (1, 11, 6) -> (1, 2, 6) -> (10, 12, 7) -> (6, 12, 7) ->  NULL 
+Printing list for MST List:
+(0, 0, 0) -> (12, 7, 4) -> (6, 4, 3) -> (1, 6, 3) -> (4, 3, 3) -> (8, 6, 2) -> (9, 8, 2) -> (5, 4, 2) -> (6, 7, 2) -> (2, 4, 1) -> (8, 10, 1) ->  NULL 
+Total cost: 23
+
+for Node i: 1, whichSet is 1
+for Node i: 2, whichSet is 1
+for Node i: 3, whichSet is 1
+for Node i: 4, whichSet is 1
+for Node i: 5, whichSet is 1
+for Node i: 6, whichSet is 1
+for Node i: 7, whichSet is 1
+for Node i: 8, whichSet is 1
+for Node i: 9, whichSet is 1
+for Node i: 10, whichSet is 1
+for Node i: 11, whichSet is 1
+for Node i: 12, whichSet is 1
+
+
+Printing list for Edge List:
+(0, 0, 0) -> (1, 11, 6) -> (1, 2, 6) -> (10, 12, 7) -> (6, 12, 7) ->  NULL 
+Printing list for MST List:
+(0, 0, 0) -> (9, 11, 5) -> (12, 7, 4) -> (6, 4, 3) -> (1, 6, 3) -> (4, 3, 3) -> (8, 6, 2) -> (9, 8, 2) -> (5, 4, 2) -> (6, 7, 2) -> (2, 4, 1) -> (8, 10, 1) ->  NULL 
+Total cost: 28
+
